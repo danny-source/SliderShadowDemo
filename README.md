@@ -2,7 +2,7 @@
 
 SliderShadow is base on UISlider and it have two Shadow Thumb.
 
- ![](http://dylab.mediweb.35g.tw:30000/Danny_Lin/SliderShadowDemo/raw/master/screenshot.png)
+ ![](https://github.com/danny-source/SliderShadowDemo/raw/master/screenshot.png)
 
 ## Refer
  [uislider-popover](https://github.com/AppNinja/uislider-popover)
