@@ -3,11 +3,25 @@
 SliderShadow is base on UISlider and it have two Shadow Thumb.
 
  ![](https://github.com/danny-source/SliderShadowDemo/raw/master/screenshot.png)
+ 
+# Usage
+
+* [Download](https://github.com/danny-source/SliderShadowDemo.git)
+
+* CocoaPods [Spec](https://github.com/danny-source/DY-Spec)
+
+Podfile
+
+```
+source 'https://github.com/danny-source/DY-Spec.git'
+pod 'SliderShadow'
+
+```
 
 ## Refer
- [uislider-popover](https://github.com/AppNinja/uislider-popover)
+ * [uislider-popover](https://github.com/AppNinja/uislider-popover)
 
- [MMSliderPopover](https://github.com/MaximAlien/MMSliderPopover) 
+ * [MMSliderPopover](https://github.com/MaximAlien/MMSliderPopover) 
 
 # MIT License
 
